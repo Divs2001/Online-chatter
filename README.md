@@ -1,7 +1,7 @@
 
 # Online-chatter
 
-This is an online chatting application which is build with
+This is an online chatting application that is built with
 Spring Boot and WebSocket, where anyone can chat and 
 communicate with others.
 
